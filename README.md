@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on CSR<br><br>👯 I’m looking to collaborate on Application development for mobile and web<br><br><br>
-
+# 💫 Hi 👋, I'm Ajit Mahato
+A passionate Web Developer<br><br>
+Email Me 👉 ✉️ ajitmahato140404@gmail.com For Collaboration/Project or Anything Else. 😊😊<br><br>
+🔭 I’m currently working on CSR<br><br>👯 I’m looking to collaborate on Application development for Mobile and Web<br><br>🌱 I’m currently learning: Python<br><br><br> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me_ajit4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ajit-mahato) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajitmahato140404@gmail.com) 
@@ -11,6 +12,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=ajit-mahato&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ajit-mahato&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ajit-mahato&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ajit-mahato&theme=highcontrast&no-frame=false&no-bg=true&margin-w=4)
